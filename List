@@ -1,1 +1,4 @@
-
+return {
+    [6447798030] = "https://raw.githubusercontent.com/bendy1x1x1x1x/GamesKeyless/refs/heads/main/FunkyFriday", -- Funky Friday
+    [5985232436] = "https://raw.githubusercontent.com/bendy1x1x1x1x/KeylessGames/refs/heads/main/Game2" -- Infectious Smile
+}
